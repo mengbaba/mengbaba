@@ -24,8 +24,7 @@
 | Python       | ![Python](https://via.placeholder.com/100x20/3776AB/FFFFFF?text=80%25)    |
 
 | UniApp       | ![UniApp](https://via.placeholder.com/100x20/5EB5E8/FFFFFF?text=60%25)    |
-## 📈 项目经验
+## 📈 Project
 - **[EducationPlatform](https://k.cnki.net)**
-### 📊 我的 GitHub 统计
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mengbaba&show_icons=true&hide_border=true&theme=radical)
+### 📊 Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengbaba&layout=compact&hide_border=true&theme=radical)
